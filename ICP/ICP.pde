@@ -3,6 +3,9 @@
  Iterative Closest Point ( ICP ) based on:
  https://nbviewer.jupyter.org/github/niosus/notebooks/blob/master/icp.ipynb
  "blocks" below as in Jupyter Nobeook page - Press any key to advance
+ 
+ Anderson Sudario
+ Jun, 2021
  */
 
 
